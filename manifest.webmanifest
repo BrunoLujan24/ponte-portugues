@@ -1,0 +1,17 @@
+{
+  "name": "Ponte Português",
+  "short_name": "Ponte",
+  "description": "Portugués de Brasil de cero a B2 para hispanohablantes.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F5F4",
+  "theme_color": "#0A6870",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
